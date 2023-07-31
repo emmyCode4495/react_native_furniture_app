@@ -1,7 +1,7 @@
 import React from 'react'
 import {View,Text} from 'react-native'
 
-const Profile = ()=>{
+const Home = ()=>{
     return(
         <View>
             <Text>This is just a text</Text>
@@ -9,4 +9,4 @@ const Profile = ()=>{
     )
 }
 
-export default Profile
+export default Home
